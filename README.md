@@ -18,6 +18,8 @@ Este proyecto contiene el código en Python necesario para hacer una transformac
  El presente repositorio está estructurado de la siguiente manera:
 
  - README
+ 
+ - dossier_adalab_estudio_de_mercado: un dossier con todas las gráficas realizadas en este proyecto explicadas detalladamente.
 
  - graficas: todas las graficas realizadas en el proyecto.
 
