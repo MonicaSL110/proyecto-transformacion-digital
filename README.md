@@ -19,7 +19,11 @@ Este proyecto contiene el código en Python necesario para hacer una transformac
 
  - README
 
- - columnas_dataframe: todas las columnas del dataframe explicadas.
+ - graficas: todas las graficas realizadas en el proyecto.
+
+ - documentacion_adicional:
+   * columnas_dataframe: todas las columnas del dataframe explicadas.
+   * relacion_graficas_columnas: graficas realizadas con las columnas seleccionadas.
 
  - notebooks: carpeta que contiene todos los jupyter utilizados para la realización de este proyecto.
     * unificado: proceso de unificación de los 4 archivos facilitados por el cliente, incluidas las columnas relacionadas.
