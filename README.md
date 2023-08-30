@@ -1,4 +1,4 @@
-# Proyecto transformación digital actuazlización Adalab Mónica Griselle y Cris
+# Proyecto transformación digital Adalab Mónica Griselle y Cris
 
 ## Descripción
 Este proyecto contiene el código en Python necesario para hacer una transformación digital de una empresa donde nos entregan unos datos sin limpiar para posteriormente poder sacar conclusiones a cuestiones que sean de relevancia para la actualización y marketing de la empresa según el estado del mercado actual.
