@@ -74,6 +74,5 @@ Este proyecto contiene el código en Python necesario para hacer una transformac
     * Métodos de tuplas
     * Métodos de diccionarios
     * Try...except
-    * mysql.connector
     * Contol de errores
     * Código defensivo
